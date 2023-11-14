@@ -1,7 +1,8 @@
 ### Hi there 👋
 
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=nihilityer&show_icons=true&include_all_commits=true&theme=solarized-light&hide_border=true"/> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihilityer&layout=compact&theme=solarized-light&hide_border=true" /> |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nihilityer&theme=solarized-light)
+
+![](https://github-readme-stats.vercel.app/api?username=nihilityer&show_icons=true&theme=solarized-light)
 
 <!--
 **nihilityer/nihilityer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
